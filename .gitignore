@@ -1,0 +1,15 @@
+# Local virtual environment
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+
+# Python cache and tooling
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
